@@ -1,5 +1,10 @@
 # Node.js Testing Working Group (proposed)
 
+* [Charter](Charter.md)
+* [Governance](Governance.md)
+* [Moderation Policy](ModerationPolicy.md)
+* [Code of Conduct](CODE_OF_CONDUCT.md)
+
 ## Current Project Team Members:
 
 * [Trott](https://github.com/Trott) - **Rich Trott** &lt;rtrott@gmail.com&gt;
