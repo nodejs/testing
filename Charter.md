@@ -9,7 +9,7 @@ the Node.js source code.
 
 * Coordinate an overall strategy for improving testing
 * Document guidelines around tests
-* Work with the Build Working Group to imrpve continuous integration
+* Work with the Build Working Group to improve continuous integration
 * Improve tooling for testing
 
 ### Members
