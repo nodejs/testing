@@ -1,5 +1,8 @@
 ## Node.js Testing Working Group
 
+This charter has not been ratified by the Node.js TSC or the Node.js Build
+group. It is a draft proposal only.
+
 ### Purpose
 
 The Node.js Testing Working Group's purpose is to extend and improve testing of

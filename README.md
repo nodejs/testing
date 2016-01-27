@@ -1,4 +1,4 @@
-# Node.js Testing Working Group (proposed)
+# Node.js Testing Working Group
 
 * [Charter](Charter.md)
 * [Governance](Governance.md)
