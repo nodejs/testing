@@ -1,4 +1,9 @@
-# Node.js Testing Working Group (proposed)
+# Node.js Testing Working Group
+
+* [Charter](Charter.md)
+* [Governance](Governance.md)
+* [Moderation Policy](ModerationPolicy.md)
+* [Code of Conduct](CODE_OF_CONDUCT.md)
 
 ## Current Project Team Members:
 
