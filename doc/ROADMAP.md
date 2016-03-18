@@ -15,6 +15,13 @@
 ** Catalog
 ** What to do?
 
+* Known issues
+** Catalog and add tests that should be in `known_issues` that aren't?
+** What, if anything, to do with tests once they are in `known_issues`?
+
+* Document
+** What, if anything, needs improving in `test/README.md`?
+
 * Create unit tests?
 
 * Re-organize tests if current setup is unwieldy?
