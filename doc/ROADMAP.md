@@ -1,3 +1,11 @@
+## Near-term
+
+* Make a recommendation on use of timers in tests
+  * Many flaky tests are due to arbitrary timers
+  * This would be a good learning experience on getting buy-in from the project.
+
+## Long-term
+
 * Identify an overall strategy to approach the tactical issues below.
 
 * Process around flaky tests:
@@ -49,3 +57,5 @@
   * Do we want to do anything about `assert`?
   * Recruitment/onboarding?
     * good-first-contributions?
+  * Multi-VM testing issues?
+    * If we
