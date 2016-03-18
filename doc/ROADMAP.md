@@ -44,3 +44,8 @@
 *** stress testing in parallel?
 *** CI results search, automation, data collection
 *** Flaky test identification
+
+* Miscellaneous
+** Do we want to do anything about `assert`?
+** Recruitment/onboarding?
+*** good-first-contributions?
